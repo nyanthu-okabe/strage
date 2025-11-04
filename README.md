@@ -1,0 +1,2 @@
+# strage
+strage.nyanthu.com
